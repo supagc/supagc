@@ -1,4 +1,12 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey </h1>
+
+<h2>📊 GitHub Stats</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supagc&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<div align="center">
 
 ###
 
