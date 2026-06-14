@@ -1,4 +1,4 @@
-<h1 align="center">Hey </h1>
+<h1 align="center"> Hi ✌️ </h1>
 
 <h2>📊 GitHub Stats</h2>
 
